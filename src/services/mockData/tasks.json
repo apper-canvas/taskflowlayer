@@ -1,0 +1,79 @@
+[
+  {
+    "Id": 1,
+    "title": "Complete project proposal",
+    "description": "Finish writing the quarterly project proposal for the marketing team",
+    "completed": false,
+    "category": "work",
+    "dueDate": "2024-01-20",
+    "priority": "high",
+    "createdAt": "2024-01-15T09:00:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 2,
+    "title": "Buy groceries",
+    "description": "Milk, eggs, bread, and vegetables for the week",
+    "completed": true,
+    "category": "personal",
+    "dueDate": "2024-01-16",
+    "priority": "medium",
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "completedAt": "2024-01-16T14:20:00.000Z"
+  },
+  {
+    "Id": 3,
+    "title": "Schedule doctor appointment",
+    "description": "Annual checkup with Dr. Smith",
+    "completed": false,
+    "category": "health",
+    "dueDate": "2024-01-22",
+    "priority": "medium",
+    "createdAt": "2024-01-14T16:45:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 4,
+    "title": "Read chapter 5",
+    "description": "Continue reading 'Atomic Habits' book",
+    "completed": false,
+    "category": "learning",
+    "dueDate": null,
+    "priority": "low",
+    "createdAt": "2024-01-13T20:15:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 5,
+    "title": "Call mom",
+    "description": "Weekly check-in call with mom",
+    "completed": true,
+    "category": "personal",
+    "dueDate": "2024-01-14",
+    "priority": "high",
+    "createdAt": "2024-01-13T18:30:00.000Z",
+    "completedAt": "2024-01-14T19:45:00.000Z"
+  },
+  {
+    "Id": 6,
+    "title": "Update website content",
+    "description": "Refresh the about page and update contact information",
+    "completed": false,
+    "category": "work",
+    "dueDate": "2024-01-25",
+    "priority": "medium",
+    "createdAt": "2024-01-12T11:20:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 7,
+    "title": "Plan weekend trip",
+    "description": "Research and book accommodations for the mountain trip",
+    "completed": false,
+    "category": "travel",
+    "dueDate": "2024-01-18",
+    "priority": "low",
+    "createdAt": "2024-01-11T15:10:00.000Z",
+    "completedAt": null
+  }
+]
