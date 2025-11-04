@@ -1,10 +1,9 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
-import { cn } from "@/lib/utils";
+import { cn } from "@/utils/cn";
 import ApperIcon from "@/components/ApperIcon";
 import Button from "@/components/atoms/Button";
 import Input from "@/components/atoms/Input";
-
 const AddTaskForm = ({ onAddTask, categories = [] }) => {
   const [title, setTitle] = useState("")
   const [isAdding, setIsAdding] = useState(false)
